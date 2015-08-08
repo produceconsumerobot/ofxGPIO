@@ -1,6 +1,6 @@
 #include <fcntl.h>
-#include "smbus.h"
-#include <linux/i2c.h>
+//#include "smbus.h"
+//#include <linux/i2c.h>
 #include <linux/i2c-dev.h>
 #include "i2cBus.h"
 
